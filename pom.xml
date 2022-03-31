@@ -16,7 +16,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
 
-        <spring.version>5.1.8.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <spring.data>2.1.10.RELEASE</spring.data>
         <hibernate.jpa>5.4.3.Final</hibernate.jpa>
         <maria.version>2.4.1</maria.version>
